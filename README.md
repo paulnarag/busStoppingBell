@@ -7,6 +7,8 @@ To keep the device compact and portable, the electronics are powered by a 3.7V 2
 
 ## Development Log
 
+## I am not able to show the videos due to some issues but you can see them in the media folder
+
 ### 27 Jan 2026 — Audio System Testing
 Tested the **ESP32 with a 3W 8Ω speaker and MAX98357 I2S amplifier**.  
 I used example code to turn the ESP32 into a **Bluetooth speaker** to verify that the amplifier and speaker were working correctly.
