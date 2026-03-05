@@ -15,7 +15,8 @@ I used example code to turn the ESP32 into a **Bluetooth speaker** to verify tha
 - Successfully played audio through the speaker.
 
 **Media**
-- [Video Demo](media/jan27bluetoothspeakertokyodrift.MOV)
+
+<video src="media/jan27bluetoothspeakertokyodrift.MOV" controls width="400"></video>
 
 ---
 
@@ -26,7 +27,8 @@ Connected the **button, MAX98357 amplifier, and ESP32** together on a breadboard
 - Test if pressing the button can trigger the bell sound.
 
 **Media**
-- [Breadboard Demo](media/jan30breadboard.MOV)
+
+<video src="media/jan30breadboard.MOV" controls width="400"></video>
 
 ---
 
@@ -34,7 +36,8 @@ Connected the **button, MAX98357 amplifier, and ESP32** together on a breadboard
 Added a **3.7V 2000mAh rechargeable battery** so the device can operate without USB power.
 
 **Media**
-- [Battery Setup](media/feb5esp32.MOV)
+
+<video src="media/feb5esp32.MOV" controls width="400"></video>
 
 ---
 
@@ -42,7 +45,8 @@ Added a **3.7V 2000mAh rechargeable battery** so the device can operate without 
 Replaced the standard ESP32 with an **ESP32-C3 Super Mini** to make the circuit more compact.
 
 **Media**
-- [ESP32-C3 Upgrade](media/feb5esp32c3supermini.MOV)
+
+<video src="media/feb5esp32c3supermini.MOV" controls width="400"></video>
 
 ---
 
@@ -54,5 +58,5 @@ Started soldering all components onto a **perfboard** to make the circuit perman
 - Connected ESP32, amplifier, and battery
 
 **Media**
-- [Perfboard Wiring 1](media/feb7startingtoperfboard.HEIC)
-- [Perfboard Wiring 2](media/feb7powerwiresperfboard.HEIC)
+
+<img src="media/feb7startingtoperfboard.PNG" width="400"> <img src="media/feb7powerwiresperfboard.PNG" width="400">
