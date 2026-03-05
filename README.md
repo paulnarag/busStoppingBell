@@ -5,3 +5,51 @@ The system is built using an ESP32-C3 Super Mini microcontroller, connected to a
 
 To keep the device compact and portable, the electronics are powered by a 3.7V 2000mAh rechargeable battery and assembled on a perfboard after prototyping on a breadboard. This project combines embedded electronics, audio playback, and 3D printing to recreate a familiar real-world transport system.
 
+## Development Log
+
+### 27 Jan 2026 — Audio System Testing
+Tested the **ESP32 with a 3W 8Ω speaker and MAX98357 I2S amplifier**.  
+I used example code to turn the ESP32 into a **Bluetooth speaker** to verify that the amplifier and speaker were working correctly.
+
+**Result**
+- Successfully played audio through the speaker.
+
+**Media**
+- https://drive.google.com/file/d/1IfV3JwpPXguKxxOCGHOv_D6XvQ5bgTau/view?usp=drive_link
+
+---
+
+### 30 Jan 2026 — Breadboard Prototype
+Connected the **button, MAX98357 amplifier, and ESP32** together on a breadboard to begin prototyping the bus stop bell system.
+
+**Goal**
+- Test if pressing the button can trigger the bell sound.
+
+---
+
+### 5 Feb 2026 — Battery Power
+Added a **3.7V 2000mAh rechargeable battery** so the device can operate without USB power.
+
+**Media**
+- https://drive.google.com/file/d/1VUABBz-BZpdGpkYjh99y4Xci2hIFX39C/view?usp=drive_link
+
+---
+
+### 5 Feb 2026 — Microcontroller Optimization
+Replaced the standard ESP32 with an **ESP32-C3 Super Mini** to make the circuit more compact.
+
+**Media**
+- https://drive.google.com/file/d/1ih0r3RHBM_A12W_3qjJ_HpJo79br1svg/view?usp=drive_link
+
+---
+
+### 7 Feb 2026 — Perfboard Assembly
+Started soldering all components onto a **perfboard** to make the circuit permanent.
+
+**Steps**
+- Soldered power wires first
+- Connected ESP32, amplifier, and battery
+
+**Media**
+- https://drive.google.com/file/d/1gY3TDQmMNjWyH-OFjsJ38EPLRwJrQoyi/view?usp=drive_link
+- https://drive.google.com/file/d/1mbIjZRaJdZCtQEszDfwvezrgv3P4tBqy/view?usp=drive_link
