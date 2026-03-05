@@ -15,7 +15,7 @@ I used example code to turn the ESP32 into a **Bluetooth speaker** to verify tha
 - Successfully played audio through the speaker.
 
 **Media**
-- https://drive.google.com/file/d/1IfV3JwpPXguKxxOCGHOv_D6XvQ5bgTau/view?usp=drive_link
+- [Video Demo](https://drive.google.com/file/d/1IfV3JwpPXguKxxOCGHOv_D6XvQ5bgTau/view?usp=drive_link)
 
 ---
 
@@ -31,7 +31,7 @@ Connected the **button, MAX98357 amplifier, and ESP32** together on a breadboard
 Added a **3.7V 2000mAh rechargeable battery** so the device can operate without USB power.
 
 **Media**
-- https://drive.google.com/file/d/1VUABBz-BZpdGpkYjh99y4Xci2hIFX39C/view?usp=drive_link
+- [Battery Setup](https://drive.google.com/file/d/1VUABBz-BZpdGpkYjh99y4Xci2hIFX39C/view?usp=drive_link)
 
 ---
 
@@ -39,7 +39,7 @@ Added a **3.7V 2000mAh rechargeable battery** so the device can operate without 
 Replaced the standard ESP32 with an **ESP32-C3 Super Mini** to make the circuit more compact.
 
 **Media**
-- https://drive.google.com/file/d/1ih0r3RHBM_A12W_3qjJ_HpJo79br1svg/view?usp=drive_link
+- [ESP32-C3 Upgrade](https://drive.google.com/file/d/1ih0r3RHBM_A12W_3qjJ_HpJo79br1svg/view?usp=drive_link)
 
 ---
 
@@ -47,9 +47,9 @@ Replaced the standard ESP32 with an **ESP32-C3 Super Mini** to make the circuit 
 Started soldering all components onto a **perfboard** to make the circuit permanent.
 
 **Steps**
-- Soldered power wires first
+- Soldered power wires first  
 - Connected ESP32, amplifier, and battery
 
 **Media**
-- https://drive.google.com/file/d/1gY3TDQmMNjWyH-OFjsJ38EPLRwJrQoyi/view?usp=drive_link
-- https://drive.google.com/file/d/1mbIjZRaJdZCtQEszDfwvezrgv3P4tBqy/view?usp=drive_link
+- [Perfboard Wiring 1](https://drive.google.com/file/d/1gY3TDQmMNjWyH-OFjsJ38EPLRwJrQoyi/view?usp=drive_link)
+- [Perfboard Wiring 2](https://drive.google.com/file/d/1mbIjZRaJdZCtQEszDfwvezrgv3P4tBqy/view?usp=drive_link)
